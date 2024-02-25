@@ -1,2 +1,2 @@
-# Job_portal
+Event_management_system
 
